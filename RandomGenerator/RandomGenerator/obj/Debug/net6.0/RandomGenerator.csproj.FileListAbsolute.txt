@@ -1,0 +1,15 @@
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\bin\Debug\net6.0\RandomGenerator.exe
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\bin\Debug\net6.0\RandomGenerator.deps.json
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\bin\Debug\net6.0\RandomGenerator.runtimeconfig.json
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\bin\Debug\net6.0\RandomGenerator.dll
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\bin\Debug\net6.0\RandomGenerator.pdb
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\obj\Debug\net6.0\RandomGenerator.csproj.AssemblyReference.cache
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\obj\Debug\net6.0\RandomGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\obj\Debug\net6.0\RandomGenerator.AssemblyInfoInputs.cache
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\obj\Debug\net6.0\RandomGenerator.AssemblyInfo.cs
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\obj\Debug\net6.0\RandomGenerator.csproj.CoreCompileInputs.cache
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\obj\Debug\net6.0\RandomGenerator.dll
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\obj\Debug\net6.0\refint\RandomGenerator.dll
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\obj\Debug\net6.0\RandomGenerator.pdb
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\obj\Debug\net6.0\RandomGenerator.genruntimeconfig.cache
+C:\Users\posle\source\repos\RandomGenerator\RandomGenerator\obj\Debug\net6.0\ref\RandomGenerator.dll
